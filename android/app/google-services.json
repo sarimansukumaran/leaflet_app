@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894207849285",
+    "project_id": "leaflet-b8384",
+    "storage_bucket": "leaflet-b8384.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894207849285:android:43d4390f4e96d39a0b042c",
+        "android_client_info": {
+          "package_name": "com.example.leaflet_a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblu_CgBI0CbrElPS1SHbs340u9P8CexY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
